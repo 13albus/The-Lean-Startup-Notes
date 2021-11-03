@@ -31,4 +31,3 @@ solved real problems and o9er detailed speci1cations for what
 needs to be built. Unlike a traditional strategic planning or market
 research process, this speci1cation will be rooted in feedback on what is
 working today rather than in anticipation of what might work tomorrow.
-To see this in acti
