@@ -16,3 +16,7 @@ to change (called a pivot). However, the overarching vision rarely
 changes. Entrepreneurs are committed to seeing the startup through
 to that destination. Every setback is an opportunity for learning
 how to get where they want to go
+
+![startup-triangle](assets/img1.PNG)
+
+![startup-change-triangle](assets/img2.PNG)
